@@ -105,7 +105,7 @@
           </div>
           <div class="row">
             <div class="col-8">
-              <a href="./login.php">Already hava an Account</a>
+              <a href="./login.php">Already have an Account</a>
             </div>
             <!-- /.col -->
             <div class="col-4">
